@@ -1,23 +1,23 @@
 /* Structure/Layouts */
 body {
-margin: 0 10%;
-font-family: sans-serif;
+  margin: 0 10%;
+  font-family: sans-serif;
 }
 h1 {
-text-align: center;
-font-family: serif;
-font-weight: normal;
-font-size: 40px;
-text-transform: uppercase;
-margin-top: 30px;
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  font-size: 40px;
+  text-transform: uppercase;
+  margin-top: 30px;
 }
 h2 {
-text-align: center;
-font-size: 20px;
+  text-align: center;
+  font-size: 20px;
 }
 
 /* Colors */
-body { 
+body {
   color: white;
   background-color: black;
   font-size: 100%;
